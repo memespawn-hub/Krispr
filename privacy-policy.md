@@ -1,10 +1,10 @@
 # Privacy Policy for Krispr
 
-\*\*Last updated: May 24, 2026
+**Last updated: May 24, 2026**
 
 This Privacy Policy describes how Krispr ("we", "us", or "the app") collects, uses, and shares your information when you use our mobile application. By using Krispr, you agree to the practices described here.
 
-> **Contact:** For any questions about this policy or your data, email **[krisprstudio@gmail.com]**.
+> **Contact:** For any questions about this policy or your data, email **krisprstudio@gmail.com**.
 
 ## 1. Information We Collect
 
@@ -54,7 +54,7 @@ We share only the information necessary for these providers to perform their fun
 
 ## 6. Your Rights & Account Deletion
 
-You can **delete your account and associated data** at any time from within the app (Profile → Delete Account) or by emailing us at **[krisprstudio@gmail.com]**. Depending on your region, you may also have rights to access, correct, or export your personal data; contact us to exercise them.
+You can **delete your account and associated data** at any time from within the app (Profile → Delete Account) or by emailing us at **krisprstudio@gmail.com**. Depending on your region, you may also have rights to access, correct, or export your personal data; contact us to exercise them.
 
 ## 7. Children's Privacy
 
@@ -70,7 +70,7 @@ We may update this Privacy Policy from time to time. Material changes will be re
 
 ## 10. Contact
 
-**[krisprstudio@gmail.com]**
-Email: **[krisprstudio@gmail.com]**
+**Krispr**
+Email: krisprstudio@gmail.com
 
 ---
